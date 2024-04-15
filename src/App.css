@@ -1,0 +1,77 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+body{
+  background-color: black;
+}
+
+button {
+  box-sizing: border-box;
+  width: 154px;
+  height: 49px;
+  background-color: #EB6033;
+  color: white;
+  border: none;
+  font-size: 20px;
+}
+
+.card--container{
+  height: 85vh;
+  width:27%;
+  text-align: center;
+  background-color: white;
+}
+
+.card--header{
+    background-color: #573ABA;
+    text-align: center;
+    min-height: 230px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.PackageName{
+  margin-bottom: 60px;
+  color: white;
+}
+.price{
+  font-size: 70px;
+  margin-bottom: -10px;
+  color: white;
+
+}
+.plan--term{
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(186, 222, 237);
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 20px;
+}
+
+.whattoget--div{
+    padding-bottom: 30px;
+    padding-top:10px ;
+}
+.whattoget--list{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.7rem;
+  color: gray;
+  font-size:17px ;
+}
+
+button{
+    width: 220px;
+    padding-block:10px;
+    font-weight: 550;
+    font-size: 18px;
+
+}
+
+
+
+
+
+
